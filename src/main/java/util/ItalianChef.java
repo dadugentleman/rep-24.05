@@ -9,7 +9,7 @@ public class ItalianChef implements Chef {
     @Override
     public String getDailyRecipe() {
         return "Prepare pasta al pomodoro " +
-                "with fresh tomatoes and basil!";
+                "with fresh tomatoes and basil! git pull";
 
     }
 
