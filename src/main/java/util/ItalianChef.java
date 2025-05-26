@@ -1,4 +1,4 @@
-package com.example.today;
+package util;
 
 import org.springframework.stereotype.Component;
 
